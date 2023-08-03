@@ -25,3 +25,4 @@ mkdir -p $BUILD_DIR/$BUILD_TYPE-cpp17 \
 
 # cd $SOURCE_DIR && doxygen
 
+BUILD_DIR=./build BUILD_TYPE=debug ./build.sh
